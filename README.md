@@ -8,6 +8,10 @@
 
 玩法
 ---
+<img src="https://github.com/hisui83/Taiko-Game/blob/master/image3.jpg" width="60%">
+
+點擊封面開始遊戲，接著選擇歌曲
+
 <img src="https://github.com/hisui83/Taiko-Game/blob/master/image2.jpg" width="60%">
 
 打擊的範圍擴增為兩行，鍵盤左鍵控制上排，右鍵控制下排。程式會判斷按下的時機為Prefect（完美）、Good（良好）或是Miss（失誤），並在遊戲結束時顯示統計出的成績。目前遊戲裡有兩首歌的自製譜面。
